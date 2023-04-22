@@ -19,7 +19,7 @@ console.log(cohort.length)
 
 // a) Your answer: There are 10 characters in the string "LEARN 2023" which is stored in the variable cohort, so I would expect a log of cohort.length to produce 10 as a number.
 
-// b) Verify and explain: This returned 10, nice!
+// b) Verify and explain: This returned 10, nice! Explanation above.
 
 // --------------------2) What will this log?
 
@@ -28,7 +28,7 @@ console.log(greeting[4])
 
 // a) Your answer: The log of greeting[4] will return the character at the index assigned the number 4 for the string stored in the variable greeting, or the 5th character by count since js uses zero-indexing. So it should return the character "o" as a string.
 
-// b) Verify and explain: This did return "o", yay!
+// b) Verify and explain: This did return "o", yay! Explanation above.
 
 // --------------------3) What will this log?
 
@@ -38,7 +38,7 @@ console.log(languages[index])
 
 // a) Your answer: The square brackets around [index] indicate that it will find the indexed character for the preceding item, languages. Since the variable of index stores the value of 1, it will give me the item which is indexed at location 1 in the array languages, which would be "Ruby" as a string.
 
-// b) Verify and explain: We got Ruby!
+// b) Verify and explain: We got Ruby! Explanation above.
 
 // --------------------4) What will this log?
 
@@ -56,4 +56,4 @@ console.log(typeof dataTypes.length)
 
 // a) Your answer: I think this will tell me the type of data that dataTypes.length returns, which would be a number. 
 
-// b) Verify and explain: Hooray for number!
+// b) Verify and explain: Hooray for number! Explanation above.
